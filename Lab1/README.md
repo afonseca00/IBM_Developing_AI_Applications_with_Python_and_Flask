@@ -13,17 +13,3 @@ In this lab, you will become familiar with using an Integrated Development Envir
 
 ---
 
-## Tasks
-
-### Task 1: Set-up
-- Clone the repository containing the lab artifacts.
-- Navigate to the directory with the exercise files.
-
-### Task 2: Explore the IDE Interface
-- Familiarize yourself with the layout, including the file explorer, editor, and terminal.
-
-### Task 3: Install a Package
-- Open the terminal within the IDE.
-- Run the following command to install a Python package (e.g., `requests`):
-  ```bash
-  pip install requests

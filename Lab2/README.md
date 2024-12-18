@@ -11,13 +11,3 @@ This lab demonstrates how to use pylint for static code analysis on Python progr
 
 ---
 
-## Tasks
-
-### Task 1: Set-up
-- Clone the repository containing the lab artifacts.
-- Navigate to the directory with the exercise files.
-
-### Task 2: Install pylint
-- Run the following command to install pylint:
-  ```bash
-  pip install pylint
