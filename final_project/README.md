@@ -38,7 +38,7 @@ By completing this project, you have:
 
 ## Screenshots
 Here are the screenshots of the project tasks at different stages:
-- 1_folder_structure.png
+- 1_folder_structure.png(image/1_folder_structure.png)
 - 2a_emotion_detection.png
 - 2b_application_creation.png
 - 3a_output_formatting.png
