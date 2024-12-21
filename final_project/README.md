@@ -39,21 +39,21 @@ By completing this project, you have:
 ## Screenshots
 Here are the screenshots of the project tasks at different stages:
 - [1_folder_structure.png](image/1_folder_structure.png)
-- 2a_emotion_detection.png
-- 2b_application_creation.png
-- 3a_output_formatting.png
-- 3b_formatted_output_test.png
-- 4a_packaging.png
-- 4b_packaging_test.png
-- 5a_unit_testing.png
-- 5b_unit_testing_result.png
-- 6a_server.png
-- 6b_deployment_test.png
-- 7a_error_handling_function.png
-- 7b_error_handling_server.png
-- 7c_error_handling_interface.png
-- 8a_server_modified.png
-- 8b_static_code_analysis.png
+- [2a_emotion_detection.png](image/2a_emotion_detection.png) 
+- [2b_application_creation.png](image/2b_application_creation.png) 
+- [3a_output_formatting.png](image/3a_output_formatting.png) 
+- [3b_formatted_output_test.png](image/3b_formatted_output_test.png) 
+- [4a_packaging.png](image/4a_packaging.png) 
+- [4b_packaging_test.png](image/4b_packaging_test.png) 
+- [5a_unit_testing.png](image/5a_unit_testing.png) 
+- [5b_unit_testing_result.png](image/5b_unit_testing_result.png) 
+- [6a_server.png](image/6a_server.png) 
+- [6b_deployment_test.png](image/6b_deployment_test.png) 
+- [7a_error_handling_function.png](image/7a_error_handling_function.png) 
+- [7b_error_handling_server.png](image/7b_error_handling_server.png) 
+- [7c_error_handling_interface.png](image/7c_error_handling_interface.png) 
+- [8a_server_modified.png](image/8a_server_modified.png) 
+- [8b_static_code_analysis.png](image/8b_static_code_analysis.png)
 
 ## How to Run the Project
 1. **Fork and clone the repository** to your local machine.
