@@ -52,6 +52,7 @@ We incorporated error handling into our application to manage invalid input grac
 ## Practice Project
 In the Practice Project, we applied the knowledge gained from the labs to build a more comprehensive AI-based application. This project involved creating an advanced emotion detection system and deploying it as a web application.
 
+
 ## Final Project: AI-Based Web Application Development and Deployment
 
 ### Scenario
